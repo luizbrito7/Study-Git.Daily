@@ -15,7 +15,7 @@ Passos para resolver um conflito
 
 - [ ] Decidir em qual branch vai ser resolvido (normalmente na de origem)
 - [ ] Puxar para a sua branch os arquivos da branch de destino (forçando os conflitos localmente)
-- [ ]  
+- [ ] Resolver o conflito manualmente ou pela UI do VSCODE
 
 
 
